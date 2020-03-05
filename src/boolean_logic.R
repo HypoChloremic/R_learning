@@ -10,3 +10,5 @@ vector1 == vector2
 # FALSE, TRUE, FALSE
 # it is interesting that it evaluates per index
 # iteratively. 
+
+can scRNA make us understand the dynamics existing in a tissue. and the composition. 
